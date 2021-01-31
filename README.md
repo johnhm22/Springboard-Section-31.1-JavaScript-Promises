@@ -1,2 +1,2 @@
 # Springboard-Section-31.1-JavaScript-Promises  
-A [Springboard](www.springboard.com) exercises focussed on JavaScript Promises and asynchronous code
+[Springboard](www.springboard.com) bootcamp coding exercises focussed on JavaScript Promises and asynchronous
